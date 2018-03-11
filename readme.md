@@ -13,3 +13,7 @@
 这是第五个功能
 
 ## git进入dev宇宙
+
+##看不到了哦
+ git checkout dev
+ git branch dev
