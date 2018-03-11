@@ -14,7 +14,6 @@
 
 ## git进入dev宇宙
 
-<<<<<<< HEAD
 git status
 git add ./   
 git add ./文件名称
@@ -26,8 +25,8 @@ git reset --hard 版本号
 git branch dev   //dev是添加的分支名称
 git checkout master //切换到master分支
 git checkout dev
-=======
-##看不到了哦
+
+##
  git checkout dev
  git branch dev
->>>>>>> dev
+
